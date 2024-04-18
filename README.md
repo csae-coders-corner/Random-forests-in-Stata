@@ -1,4 +1,7 @@
+![CC Graphics 2024_RandomForests](https://github.com/csae-coders-corner/Random-forests-in-Stata/assets/148211163/749f7307-74d7-494a-b91a-9432dec1a579)
+
 # Random-forests-in-Stata
+
 For anybody keen to try some out-of-sample prediction models in Stata, there is a great package for running a random forest algorithm in Stata called rforest.
 
 Random forest models are decision tree based, so are great for contexts where you don’t think your data can be modelled as having a linear relationship. 
